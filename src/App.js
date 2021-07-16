@@ -4,10 +4,11 @@ import Sven, { SideMenu } from "./components/SideMenu";
 function App() {
   return (
     <div className="App">
-      Sidemenu created with react
       <SideMenu />
-      <Sven />
-      <div className="main"></div>
+      <div className="main">
+        <h1> Sidemenu created with react</h1>
+        <p>lorem ipsum dolor sit amet, consectetur adip</p>
+      </div>
       {/* <Footer /> */}
     </div>
   );
