@@ -29,9 +29,9 @@ export const SideMenu = () => {
     }
   };
   return (
-    <nav>
+    <nav className={`navbar ${theme}`}>
       <ul>
-        <li className="logo">
+        <li className="logo nav-link">
           <a href="#" className="nav-link">
             <span className="nav-text logo-text">slider</span>
             <FaArrowsAltH className="fa-primary" />
@@ -61,16 +61,11 @@ export const SideMenu = () => {
             <span className="nav-text">Connect</span>
           </a>
         </li>
-        <li className="nav-link">
-          <a
-            href="#"
-            className="nav-item"
-            id="themeButton"
-            onClick={toggleTheme}
-          >
-            {theme === "dark" && <FaMoon />}
-            {theme === "solar" && <FaSun />}
-            {theme === "light" && <FaLightbulb />}
+        <li className="nav-link" id="themeButton" onClick={toggleTheme}>
+          <a href="#" className="nav-item">
+            {theme === "dark" && <FaMoon className="fa-primary" />}
+            {theme === "solar" && <FaSun className="fa-primary" />}
+            {theme === "light" && <FaLightbulb className="fa-primary" />}
             <span className="nav-text">Theme</span>
           </a>
         </li>

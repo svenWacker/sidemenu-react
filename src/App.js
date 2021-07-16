@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.scss";
 import Sven, { SideMenu } from "./components/SideMenu";
 
 function App() {
