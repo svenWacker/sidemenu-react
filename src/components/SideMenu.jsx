@@ -32,30 +32,30 @@ export const SideMenu = () => {
         <li className="logo">
           <a href="#" className="nav-link">
             <span className="nav-text logo-text">slider</span>
-            <FaArrowsAltH />
+            <FaArrowsAltH className="fa-primary" />
           </a>
         </li>
         <li className="nav-link">
           <a href="#" className="nav-item">
-            <FaHome />
+            <FaHome className="fa-primary" />
             <span className="nav-text">Home</span>
           </a>
         </li>
         <li className="nav-link">
           <a href="#" className="nav-item">
-            <FaBattleNet />
+            <FaBattleNet className="fa-primary" />
             <span className="nav-text">Team</span>
           </a>
         </li>
         <li className="nav-link">
           <a href="#" className="nav-item">
-            <FaDownload />
+            <FaDownload className="fa-primary" />
             <span className="nav-text">Download</span>
           </a>
         </li>
         <li className="nav-link">
           <a href="#" className="nav-item">
-            <FaConnectdevelop />
+            <FaConnectdevelop className="fa-primary" />
             <span className="nav-text">Connect</span>
           </a>
         </li>

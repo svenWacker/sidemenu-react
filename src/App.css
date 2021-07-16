@@ -5,3 +5,10 @@
   display: flex;
   flex-direction: column;
 }
+
+.fa-primary {
+  color: red;
+}
+.fa-secondary {
+  color: green;
+}
