@@ -21,9 +21,6 @@ export const SideMenu = () => {
       case "light":
         setTheme("solar");
         break;
-      case "light":
-        setTheme("solar");
-        break;
       case "solar":
         setTheme("dark");
         break;
