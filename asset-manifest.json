@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sidemenu-react/static/css/main.f249388a.chunk.css",
-    "main.js": "/sidemenu-react/static/js/main.b6ab891b.chunk.js",
-    "main.js.map": "/sidemenu-react/static/js/main.b6ab891b.chunk.js.map",
+    "main.css": "/sidemenu-react/static/css/main.f70b9a43.chunk.css",
+    "main.js": "/sidemenu-react/static/js/main.d2557d0a.chunk.js",
+    "main.js.map": "/sidemenu-react/static/js/main.d2557d0a.chunk.js.map",
     "runtime-main.js": "/sidemenu-react/static/js/runtime-main.0f07682f.js",
     "runtime-main.js.map": "/sidemenu-react/static/js/runtime-main.0f07682f.js.map",
     "static/js/2.1a2e13e1.chunk.js": "/sidemenu-react/static/js/2.1a2e13e1.chunk.js",
     "static/js/2.1a2e13e1.chunk.js.map": "/sidemenu-react/static/js/2.1a2e13e1.chunk.js.map",
     "index.html": "/sidemenu-react/index.html",
-    "static/css/main.f249388a.chunk.css.map": "/sidemenu-react/static/css/main.f249388a.chunk.css.map",
+    "static/css/main.f70b9a43.chunk.css.map": "/sidemenu-react/static/css/main.f70b9a43.chunk.css.map",
     "static/js/2.1a2e13e1.chunk.js.LICENSE.txt": "/sidemenu-react/static/js/2.1a2e13e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0f07682f.js",
     "static/js/2.1a2e13e1.chunk.js",
-    "static/css/main.f249388a.chunk.css",
-    "static/js/main.b6ab891b.chunk.js"
+    "static/css/main.f70b9a43.chunk.css",
+    "static/js/main.d2557d0a.chunk.js"
   ]
 }
